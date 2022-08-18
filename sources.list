@@ -1,14 +1,10 @@
-deb http://mirrors.aliyun.com/ubuntu/ codename main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ codename main restricted universe multiverse
- 
-deb http://mirrors.aliyun.com/ubuntu/ codename-security main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ codename-security main restricted universe multiverse
- 
-deb http://mirrors.aliyun.com/ubuntu/ codename-updates main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ codename-updates main restricted universe multiverse
- 
-deb http://mirrors.aliyun.com/ubuntu/ codename-proposed main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ codename-proposed main restricted universe multiverse
- 
-deb http://mirrors.aliyun.com/ubuntu/ codename-backports main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ codename-backports main restricted universemultiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-backports main restricted universe multiverse
